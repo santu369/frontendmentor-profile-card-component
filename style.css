@@ -141,6 +141,8 @@ img {
   color: var(--white);
 }
 
+/* style mobile */
+
 @media only screen and (max-width: 425px) {
   .bg-bottom {
     bottom: -185%;
